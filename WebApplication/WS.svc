@@ -1,0 +1,4 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="RESTService.RestDemoServices" 
+Factory="System.ServiceModel.Activation.WebServiceHostFactory"%> 
+// w lezmék t executi el client a part
+// http://localhost:[port]/WS.svc/hello/7ouma
